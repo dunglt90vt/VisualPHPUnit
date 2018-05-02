@@ -22,7 +22,7 @@
 		"silex/silex" : "2.2.0",
 		"jdesrosiers/silex-cors-provider" : "1.4.2",
 		"symfony/finder" : "3.3.9",
-		"doctrine/dbal" : "2.6.2"
+		"doctrine/dbal" : "2.5.13"
 	},
 	"minimum-stability" : "stable",
 	"support" : {
